@@ -1,0 +1,483 @@
+@charset "UTF-8";
+/*foundation*/
+/*****-------------------------------
+    Eric Meyer’s “Reset CSS” 2.0
+-------------------------------*****/
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script&display=swap");
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  text-decoration: none;
+}
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted #000;
+  cursor: help;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+button {
+  border: 0;
+  background-color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FAFAFA;
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*layout*/
+header {
+  z-index: 999999;
+  background-color: #fff;
+  height: 54px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom: solid 1px #dbdbdb;
+  display: flex;
+  align-items: center;
+}
+
+.mainContent {
+  padding-top: 54px;
+}
+
+.profile {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.postImages {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 25px;
+}
+
+.viewcard {
+  margin-top: 54px;
+}
+
+.viewcomment {
+  padding: 5% 9% 0 5%;
+  margin-top: 54px;
+}
+
+.joinMember {
+  padding: 54px 10% 0 5%;
+}
+
+/*component*/
+/*project*/
+.header_logo {
+  font-family: "Dancing Script", cursive;
+  font-size: 25px;
+  margin-left: 3%;
+}
+
+.userProfile {
+  display: flex;
+  align-items: center;
+  padding: 30px 0 20px;
+  border-bottom: solid 1px #dbdbdb;
+}
+
+.userProfile_img {
+  margin-right: 30px;
+}
+
+.userProfile_img > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.userProfile_textBox_id {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.userProfile_textBox_name {
+  font-size: 14px;
+}
+
+.userProfile_numbers {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding: 30px 0;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.userProfile_numbers_postarea {
+  text-align: center;
+  line-height: 1.5;
+  width: 33%;
+}
+
+.postImage_image {
+  width: 32%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+.postImage_image:nth-child(3n) {
+  margin-right: 0;
+}
+
+.postImage_image > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.footer {
+  width: 100%;
+  font-size: 10px;
+  color: #a1a1a1;
+  text-align: center;
+  padding: 25px;
+  margin-top: auto;
+}
+
+.backBtn {
+  margin-left: 10px;
+  position: absolute;
+  color: #fff;
+}
+.backBtn > a {
+  color: #fff;
+}
+.backBtn:before {
+  content: "";
+  display: block;
+  position: relative;
+  top: 5px;
+  border-radius: 1px;
+  background-color: #262626;
+  height: 2px;
+  width: 14px;
+  transform: rotate(-45deg);
+}
+.backBtn:after {
+  content: "";
+  display: block;
+  position: relative;
+  bottom: 4px;
+  border-radius: 1px;
+  background-color: #262626;
+  height: 2px;
+  width: 14px;
+  transform: rotate(-135deg);
+}
+
+.header_text {
+  margin: 0 auto;
+  font-weight: bold;
+  color: #262626;
+}
+
+/**/
+.linkBox {
+  padding: 5% 5% 0;
+}
+
+.linkBox_heart {
+  margin-right: 3%;
+}
+.linkBox_heart:before {
+  font-family: "Font Awesome 5 Free";
+  content: "";
+  font-weight: 400;
+  font-size: 25px;
+  color: #787878;
+}
+
+.linkBox_comment:before {
+  font-family: "Font Awesome 5 Free";
+  content: "";
+  font-weight: 400;
+  font-size: 25px;
+  color: #787878;
+}
+
+.viewImage_profile {
+  display: flex;
+  align-items: center;
+}
+
+.viewImage_profile_img {
+  margin: 16px;
+}
+
+.viewImage_profile_img > img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.viewImage_profile_name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.viewcard_img {
+  width: 100vw;
+}
+
+.viewcard_img > img {
+  width: 100%;
+}
+
+.viewcard_comment {
+  text-align: left;
+  padding: 5%;
+  color: #262626;
+  font-size: 14px;
+  line-height: 1.3125;
+}
+
+.viewcomment_message {
+  display: flex;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.viewcomment_message_img {
+  margin-top: 5px;
+  width: 20%;
+}
+
+.viewcomment_message_img > img {
+  max-width: 100%;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.viewcomment_message_textBox {
+  width: 80%;
+  font-size: 14px;
+  line-height: 1.3125;
+  background-color: #FEDFE1;
+  border-radius: 5px;
+  padding: 10px;
+}
+.viewcomment_message_textBox:before {
+  content: "";
+  display: inline-block;
+  border: 10px solid transparent;
+  border-right: 10px solid #FEDFE1;
+  margin-left: -30px;
+  position: absolute;
+}
+
+.viewcomment_message_text_name {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.joinMember_box {
+  display: flex;
+  width: 100%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+
+.joinMember_box_icon {
+  width: 20%;
+  margin-right: 20px;
+}
+.joinMember_box_icon > img {
+  max-width: 100%;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.joinMember_box_profile {
+  width: 80%;
+  font-size: 14px;
+}
+
+.joinMember_box_profile_name {
+  margin-top: -2px;
+  margin-bottom: 2%;
+  font-family: "Nico Moji";
+  font-size: 20px;
+}
+
+.joinMember_box_profile_text {
+  line-height: 1.4;
+}
+
+/*utility*/
+.is-close {
+  display: none;
+}

@@ -1,0 +1,12 @@
+header {
+  z-index: 999999;
+  background-color: #fff;
+  height: 54px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom: solid 1px $bordercolor;
+  display: flex;
+  align-items: center;
+}

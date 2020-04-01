@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $baseColor;
+  font-family: 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+  overflow-x: hidden;
+
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}

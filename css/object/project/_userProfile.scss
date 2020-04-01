@@ -1,0 +1,40 @@
+.userProfile {
+  display: flex;
+  align-items: center;
+  // justify-content: space-between;
+  padding: 30px 0 20px;
+  border-bottom: solid 1px $bordercolor;
+}
+
+  .userProfile_img {
+    margin-right: 30px;
+  }
+
+  .userProfile_img > img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+
+  .userProfile_textBox_id {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+
+  .userProfile_textBox_name {
+    font-size: 14px;
+  }
+
+.userProfile_numbers {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding: 30px 0;
+  border-bottom: 1px solid $bordercolor;
+}
+
+.userProfile_numbers_postarea {
+  text-align: center;
+  line-height: 1.5;
+  width: 33%;
+}
