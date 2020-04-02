@@ -280,6 +280,10 @@ header {
   width: 33%;
 }
 
+.userProfile_numbers_postarea > a {
+  color: #000;
+}
+
 .postImage_image {
   width: 32%;
   margin-right: 2%;
