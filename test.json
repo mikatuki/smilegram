@@ -12,8 +12,7 @@
 			},
 			{
 				"name": "なんちゃん",
-				"text": "そうそう！
-								ポップコーンめちゃ食べた覚えある（笑）",
+				"text": "そうそう！",
 				"icon": "nannbu_icon.jpg"
 			},
 			{
@@ -218,9 +217,7 @@
 		"img": "arai_img.jpg",
 		"user_icon": "arai_icon.jpg",
 		"name": "ちゃんあら",
-		"message": "赤井くん勤務お疲れ様でした！
-								同い年なのに、いつも周りのことを考えてテキパキ仕事をする姿。本当に尊敬していました。とりあえず1回くらいは飲み誘ってください(笑)
-								I hope your smile will continue to blossom like a flower forever.",
+		"message": "赤井くん勤務お疲れ様でした！ 同い年なのに、いつも周りのことを考えてテキパキ仕事をする姿。本当に尊敬していました。とりあえず1回くらいは飲み誘ってください(笑) I hope your smile will continue to blossom like a flower forever.",
 		"comment": "",
 		"voice": ""
 	},
