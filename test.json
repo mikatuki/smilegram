@@ -13,7 +13,7 @@
 			{
 				"name": "なんちゃん",
 				"text": "そうそう！",
-				"icon": "nannbu_icon.jpg"
+				"icon": "nanbu_icon.jpg"
 			},
 			{
 				"name": "",
@@ -28,7 +28,7 @@
 			{
 				"name": "なんちゃん",
 				"text": "そう！",
-				"icon": "nannbu_icon.jpg"
+				"icon": "nanbu_icon.jpg"
 			},
 			{
 				"name": "",
@@ -48,7 +48,7 @@
 			{
 				"name": "なんちゃん",
 				"text": "あー泣いてた！！（笑）",
-				"icon": "nannbu_icon.jpg"
+				"icon": "nanbu_icon.jpg"
 			}
 		],
 		"voice": "otukare.wav"
