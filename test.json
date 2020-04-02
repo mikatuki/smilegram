@@ -4,7 +4,54 @@
 		"user_icon": "IMG_7355.jpg",
 		"name": "むらかみ",
 		"message": "私のとった写真を褒めてくれてありがとうございました！「はなの写真は人物が綺麗に撮れてる」って言ってくれたことすごく嬉しかったです。",
-		"comment": "",
+		"comment": [
+			{
+				"name": "むらかみ",
+				"text": "クリスマスの、ショーの後に撮った写真な気がする",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "そうそう！
+								ポップコーンめちゃ食べた覚えある（笑）",
+				"icon": "nannbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "ポップコーンめちゃ食べた覚えある（笑）",
+				"icon": ""
+			},
+			{
+				"name": "むらかみ",
+				"text": "ミニオンが入れ放題の時でしたね！",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "そう！",
+				"icon": "nannbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "何回もおかわりしたなぁ…",
+				"icon": ""
+			},
+			{
+				"name": "",
+				"text": "みんなショー見てもりくみさんや！！言ってたなぁ（笑)",
+				"icon": ""
+			},
+			{
+				"name": "むらかみ",
+				"text": "赤井さん泣いてましたよね笑",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "あー泣いてた！！（笑）",
+				"icon": "nannbu_icon.jpg"
+			}
+		],
 		"voice": "otukare.wav"
 	},
 	{
@@ -166,5 +213,47 @@
 		"message": "ラスト2日前勤務 最初で最後の黒髪スーツ出勤👔",
 		"comment": "",
 		"voice": ""
-	}
+	},
+	{
+		"img": "arai_img.jpg",
+		"user_icon": "arai_icon.jpg",
+		"name": "ちゃんあら",
+		"message": "赤井くん勤務お疲れ様でした！
+								同い年なのに、いつも周りのことを考えてテキパキ仕事をする姿。本当に尊敬していました。とりあえず1回くらいは飲み誘ってください(笑)
+								I hope your smile will continue to blossom like a flower forever.",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "dou_img1.jpg",
+		"user_icon": "dou_icon.jpg",
+		"name": "",
+		"message": "",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "dou_img2.jpg",
+		"user_icon": "dou_icon.jpg",
+		"name": "",
+		"message": "",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "asami_img1.jpg",
+		"user_icon": "asami_icon.jpg",
+		"name": "あさみ",
+		"message": "メッセージは、赤井さん大好きです！",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "asami_img2.jpg",
+		"user_icon": "asami_icon.jpg",
+		"name": "あさみ",
+		"message": "メッセージは、赤井さん大好きです！",
+		"comment": "",
+		"voice": ""
+	},
 ]
