@@ -211,7 +211,53 @@
 		"user_icon": "nanbu_icon.jpg",
 		"name": "なんちゃん",
 		"message": "本当に仲間のことが大好きなんだなぁと、りゅーせーさんが嬉しそうに皆んなの写真を撮ってる姿を見てニヤニヤ。　この雰囲気を守っていきたいと心に決めました。",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "ようこうして写真撮りに来てくれたなぁ、、、😭😭😭",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "動画を作るためにね…😭✨",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "つるだ",
+				"text": "あのムービーは毎回クオリティめちゃくちゃ高かったですよね。本当にすごかった🥺",
+				"icon": "turuta_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "ほんまにね！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "あさみ",
+				"text": "赤井さんの作る動画とても面白くて好きです",
+				"icon": "asami_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "わかる〜！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "レジェンドガイドのやつとか最高よな！",
+				"icon": ""
+			},
+			{
+				"name": "やーねぇ",
+				"text": "ふとした時に見返すけど何回でも感動するし元気もらえるね😭",
+				"icon": "yayoi_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "ワードチョイスがさすがすぎる",
+				"icon": "atagi_icon.jpg"
+			}
+		],
 		"voice": "nanbu_voice.wav"
 	},
 	{
@@ -219,7 +265,103 @@
 		"user_icon": "nao_icon.jpg",
 		"name": "nao",
 		"message": "クリスタルの約束見に行けて楽しかったです！もりくみさんが出てるのまた見に行きましょう！笑",
-		"comment": "",
+		"comment": [
+			{
+				"name": "むらかみ",
+				"text": "ミニオンめっちゃカメラ目線じゃないですか！！",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "確かに〜！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "皆んな楽しそう！",
+				"icon": ""
+			},
+			{
+				"name": "kakko",
+				"text": "はなちゃんがもってるミニオンとあいまっていい感じ！",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "ミニオンがちょっと上目遣いで笑った🤣",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "あざといな、こいつ",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "つるだ",
+				"text": "あざとい笑",
+				"icon": "turuta_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "自分が人気者なの分かってるわ",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "あさみ",
+				"text": "赤井さんがミニオンに似てる気がする笑",
+				"icon": "asami_icon.jpg"
+			},
+			{
+				"name": "やーねぇ",
+				"text": "参加したかったー‼️",
+				"icon": "yayoi_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "また皆でインパ希望‼️",
+				"icon": ""
+			},
+			{
+				"name": "kakko",
+				"text": "あかいくんキャラクターみたいなとこあるもんな",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "前世ミニオンなんやわ。",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "ざわちん",
+				"text": "言われてみたら似てる",
+				"icon": "akiko_icon.jpg"
+			},
+			{
+				"name": "さとし",
+				"text": "初めて赤井くんに会った日🌞",
+				"icon": "nisihara_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "そうやったんや！！",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "距離感バカすぎて驚いたんじゃない??(笑)",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "さとし",
+				"text": "遠い親戚かと思いました笑",
+				"icon": "nisihara_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "遠い親戚w",
+				"icon": "atagi_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -227,7 +369,53 @@
 		"user_icon": "nao_icon.jpg",
 		"name": "nao",
 		"message": "顔似すぎててびっくりしました笑　丸顔同士強く生きましょう！笑",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "確かに〜！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "むらかみ",
+				"text": "赤井さんの自撮りなんですかね、このブレ具合は笑",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "あだちさん",
+				"text": "めっちゃいい写真💕",
+				"icon": "adati_icon.jpg"
+			},
+			{
+				"name": "あみちゃん",
+				"text": "心霊写真並みにブレてますね笑",
+				"icon": "ami_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "なんか写ってないよな？笑笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "何の瞬間や？（笑)",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "つるだ",
+				"text": "いい写真ー！赤井さんの笑顔って元気もらえますよね☺️",
+				"icon": "turuta_icon.jpg"
+			},
+			{
+				"name": "むらかみ",
+				"text": "赤井さんのバーコードが気になってるの私だけ・・！？",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "たしかにピッてしたくなるね😂",
+				"icon": "nanbu_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -291,6 +479,22 @@
 		"user_icon": "asami_icon.jpg",
 		"name": "あさみ",
 		"message": "赤井さん大好きです！",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "nisihara_img1.jpg",
+		"user_icon": "nisihara_icon.jpg",
+		"name": "さとし",
+		"message": "ちょっと緊張しながら一緒に帰ったの覚えてます💦笑顔が素敵なお二人さん🤩",
+		"comment": "",
+		"voice": ""
+	},
+	{
+		"img": "nisihara_img2.jpg",
+		"user_icon": "nisihara_icon.jpg",
+		"name": "さとし",
+		"message": "バイキング！！食べ過ぎにはご注意を…",
 		"comment": "",
 		"voice": ""
 	}
