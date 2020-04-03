@@ -162,7 +162,48 @@
 		"user_icon": "kako_icon.jpg",
 		"name": "kakko",
 		"message": "あかいりゅうせいが、あっちゃんになった伝説の日。あかいくんのクルプレ参加したんレアじゃない??楽しいツアーをありがとう🥺T2アニメメンバーで撮った写真。…しづくさん隠れてるけど。(笑)",
-		"comment": "",
+		"comment": [
+			{
+				"name": "なんちゃん",
+				"text": "若い！！",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "え、そこなん",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "第一声それなん",
+				"icon": ""
+			},
+			{
+				"name": "むらかみ",
+				"text": "肌すべすべ、すごい",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "ありがとう、でもなカメラが勝手に綺麗にしてくれんのよ",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "伝説ガイド誕生の瞬間や…！✨",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "とか？（笑）",
+				"icon": ""
+			},
+			{
+				"name": "kakko",
+				"text": "キメすぎ(笑)",
+				"icon": "kako_icon.jpg"
+			}
+			],
 		"voice": "kako_voice.wav"
 	},
 	{
