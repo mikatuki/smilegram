@@ -54,60 +54,6 @@
 		"voice": "otukare.wav"
 	},
 	{
-		"img": "nanbu_img2.jpg",
-		"user_icon": "nanbu_icon.jpg",
-		"name": "なんちゃん",
-		"message": "本当に仲間のことが大好きなんだなぁと、りゅーせーさんが嬉しそうに皆んなの写真を撮ってる姿を見てニヤニヤ。　この雰囲気を守っていきたいと心に決めました。",
-		"comment": [
-			{
-				"name": "池上",
-				"text": "ようこうして写真撮りに来てくれたなぁ、、、😭😭😭",
-				"icon": "ikegami_icon.jpg"
-			},
-			{
-				"name": "なんちゃん",
-				"text": "動画を作るためにね…😭✨",
-				"icon": "nanbu_icon.jpg"
-			},
-			{
-				"name": "つるだ",
-				"text": "あのムービーは毎回クオリティめちゃくちゃ高かったですよね。本当にすごかった🥺",
-				"icon": "turuta_icon.jpg"
-			},
-			{
-				"name": "池上",
-				"text": "ほんまにね！",
-				"icon": "ikegami_icon.jpg"
-			},
-			{
-				"name": "あさみ",
-				"text": "赤井さんの作る動画とても面白くて好きです",
-				"icon": "asami_icon.jpg"
-			},
-			{
-				"name": "池上",
-				"text": "わかる〜！",
-				"icon": "ikegami_icon.jpg"
-			},
-			{
-				"name": "",
-				"text": "レジェンドガイドのやつとか最高よな！",
-				"icon": ""
-			},
-			{
-				"name": "やーねぇ",
-				"text": "ふとした時に見返すけど何回でも感動するし元気もらえるね😭",
-				"icon": "yayoi_icon.jpg"
-			},
-			{
-				"name": "marie",
-				"text": "ワードチョイスがさすがすぎる",
-				"icon": "atagi_icon.jpg"
-			}
-		],
-		"voice": "nanbu_voice.wav"
-	},
-	{
 		"img": "nao_img1.jpg",
 		"user_icon": "nao_icon.jpg",
 		"name": "nao",
