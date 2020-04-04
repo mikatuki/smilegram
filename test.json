@@ -372,8 +372,13 @@
 		"comment": [
 			{
 				"name": "池上",
-				"text": "確かに〜！",
+				"text": "爆笑🤣🤣",
 				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "何で笑ってるんやろ？？",
+				"icon": ""
 			},
 			{
 				"name": "むらかみ",
@@ -423,7 +428,48 @@
 		"user_icon": "nana_icon.jpg",
 		"name": "なな",
 		"message": "｢笑えっ！」「ななちゃんsmile!!!」は私が元気になれる言葉です！笑",
-		"comment": "",
+		"comment": [
+			{
+				"name": "marie",
+				"text": "鶴ちゃんのカメラ目線👏🏻(笑",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "確かに笑笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "めっちゃこっち見てる〜！",
+				"icon": ""
+			},
+			{
+				"name": "marie",
+				"text": "ななとりゅーせーさんよりも先に鶴ちゃんに目がいった🤣♡",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "ちらりと見える梅ちゃんもええ感じ笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "確かに！(笑)",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "つるだ",
+				"text": "なんと！お恥ずかしいΣ(ﾟ∀ﾟﾉ)ﾉ",
+				"icon": "turuta_icon.jpg"
+			},
+			{
+				"name": "たけちゃん",
+				"text": "2人ともええ笑顔w確かに鶴ちゃんにまず目が行ったw",
+				"icon": "take_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -431,7 +477,48 @@
 		"user_icon": "yayoi_icon.jpg",
 		"name": "やーねぇ",
 		"message": "やばいくらい緊張してたクルプレの日、途中の休憩でフォロー入れてくれた事今でも忘れられません。まさにこのシーン…(TT)いつも気にかけて声掛けてくれる赤井くんに感謝しかない…ここまで育ててくれてありがとーーーー‼️",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "頼れるトレーナーさん❤️",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "nao",
+				"text": "赤井さんこの時髪めっちゃストレートですね！",
+				"icon": "nao_icon.jpg"
+			},
+			{
+				"name": "ちゃんあら",
+				"text": "完全バックアップ体制！",
+				"icon": "arai_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "ほんまええ写真やなぁ",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "やーねぇ",
+				"text": "このとき見ると赤井くん若いよね✨",
+				"icon": "yayoi_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "確かに！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "なな",
+				"text": "この瞬間見て次は自分や！って思ってたな…笑",
+				"icon": "nana_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "なんか1人でしみじみした。",
+				"icon": "atagi_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
