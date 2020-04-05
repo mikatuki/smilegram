@@ -1,0 +1,36 @@
+.joinMember_box {
+  display: flex;
+  width: 100%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+
+  // border-bottom: solid 1px #a1a1a1;
+}
+
+.joinMember_box_icon {
+  width: 20%;
+  margin-right: 20px;
+
+  & > img {
+    max-width: 100%;
+    width: 60px;
+    height: 60px;
+    // border-radius: 50%;
+    object-fit: cover;
+  }
+}
+
+.joinMember_box_profile {
+  width: 80%;
+  font-size: 14px;
+}
+
+.joinMember_box_profile_name {
+  margin-top: -2px;
+  margin-bottom: 2%;
+  font-family: "Nico Moji";
+  font-size: 20px;
+}
+.joinMember_box_profile_text {
+  line-height: 1.4;
+}
