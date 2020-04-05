@@ -270,7 +270,38 @@
 		"user_icon": "ikegami_icon.jpg",
 		"name": "池上",
 		"message": "ラスト2日前勤務 最初で最後の黒髪スーツ出勤👔",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "ラス2勤務〜！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "激レア　スーツ姿の赤井くん",
+				"icon": ""
+			},
+			{
+				"name": "",
+				"text": "これが最後の一緒の出勤でした😭😭",
+				"icon": ""
+			},
+			{
+				"name": "むらかみ",
+				"text": "黒髪だ",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "萌ちゃんも一緒になったってすごい！！！",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "たまたま西九条で会ってん！",
+				"icon": "ikegami_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -278,7 +309,58 @@
 		"user_icon": "arai_icon.jpg",
 		"name": "ちゃんあら",
 		"message": "赤井くん勤務お疲れ様でした！ 同い年なのに、いつも周りのことを考えてテキパキ仕事をする姿。本当に尊敬していました。とりあえず1回くらいは飲み誘ってください(笑) I hope your smile will continue to blossom like a flower forever.",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "服に出て兄弟みたいやな笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "むらかみ",
+				"text": "バーコード2回目ですよ！！！",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "なな",
+				"text": "本当に2人とも会いたいわ😭",
+				"icon": "nana_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "同い年なんがびっくり…笑",
+				"icon": ""
+			},
+			{
+				"name": "",
+				"text": "赤井さんの方が歳上かと思ってた。🤭",
+				"icon": ""
+			},
+			{
+				"name": "あさみ",
+				"text": "同い年なの知らなかったです笑",
+				"icon": "asami_icon.jpg"
+			},
+			{
+				"name": "ちゃんあら",
+				"text": "岸和田だんじり祭りやね",
+				"icon": "arai_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "チーム泉州",
+				"icon": ""
+			},
+			{
+				"name": "むらかみ",
+				"text": "長田さんを呼ばなきゃいけない気がする、そのチーム名",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "ちゃんあら",
+				"text": "実は長田さんと外園さんもいた",
+				"icon": "arai_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -286,7 +368,48 @@
 		"user_icon": "dou_icon.jpg",
 		"name": "",
 		"message": "#😆😄",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "めっちゃいい笑顔！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "nao",
+				"text": "双子みたい！笑",
+				"icon": "nao_icon.jpg"
+			},
+			{
+				"name": "ぽんこつフェアリー！",
+				"text": "ほんまや、めっちゃ似てる笑",
+				"icon": "ami_icon.jpg"
+			},
+			{
+				"name": "なな",
+				"text": "仲良し☺️",
+				"icon": "nana_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "ほんまに笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "ほんまに双子やん(笑)",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "nao",
+				"text": "分け目までおなじ笑",
+				"icon": "nao_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "ねらってるやろ",
+				"icon": "kako_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -294,7 +417,33 @@
 		"user_icon": "dou_icon.jpg",
 		"name": "",
 		"message": "4月ので、そろそろサムギョプサル行かないと",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "泉州兄弟とコリアン兄弟やん！笑笑",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "映え映えW兄弟",
+				"icon": ""
+			},
+			{
+				"name": "なんちゃん",
+				"text": "兄弟やったんか😂",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "kakko",
+				"text": "まってくれ、コリアン兄妹て。",
+				"icon": "kako_icon.jpg"
+			},
+			{
+				"name": "むらかみ",
+				"text": "泉州の姉妹都市、韓国じゃないかなと思って調べたけど違いました(´・ω・｀)",
+				"icon": "IMG_7355.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -302,7 +451,63 @@
 		"user_icon": "asami_icon.jpg",
 		"name": "あさみ",
 		"message": "赤井さん大好きです！",
-		"comment": "",
+		"comment": [
+			{
+				"name": "池上",
+				"text": "今度は原色ファッションコンビやん！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "あさみ",
+				"text": "あさみの初期カメラですね笑",
+				"icon": "asami_icon.jpg"
+			},
+			{
+				"name": "むらかみ",
+				"text": "見事に反対色w",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "やーねぇ",
+				"text": "よーみたら信号色✨",
+				"icon": "yayoi_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "ここから盛れ盛れ写真増えいったんかー！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "まってほんまや！爆笑🤣🤣",
+				"icon": ""
+			},
+			{
+				"name": "なんちゃん",
+				"text": "懐かしい〜！",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "坂崎さんらの会か？✨",
+				"icon": ""
+			},
+			{
+				"name": "あきほ",
+				"text": "楽しそうです🥳🥳",
+				"icon": "akiho_icon.jpg"
+			},
+			{
+				"name": "marie",
+				"text": "アビーちゃんが前向いてたらスリーショットやったのにー！(笑)",
+				"icon": "atagi_icon.jpg"
+			},
+			{
+				"name": "なな",
+				"text": "2人の服足したらセサミのクルーの服作れそう！笑",
+				"icon": "nana_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -310,7 +515,48 @@
 		"user_icon": "asami_icon.jpg",
 		"name": "あさみ",
 		"message": "赤井さん大好きです！",
-		"comment": "",
+		"comment": [
+			{
+				"name": "むらかみ",
+				"text": "光の具合がすごい好き",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "南さんに御幸がさしてる、、、",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "どぅどぅ",
+				"text": "2人だと思ったら、3人やった爆笑",
+				"icon": "dou_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "私おったんや！😳",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "邪魔してごめんね…！！",
+				"icon": ""
+			},
+			{
+				"name": "なな",
+				"text": "隠れなんちゃん🥰",
+				"icon": "nana_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "本当は赤井さんもあさみの事大好きなんやなって伝わる🥰",
+				"icon": ""
+			},
+			{
+				"name": "",
+				"text": "↑いつもキモいとか言ってるけどって事ね！🙌",
+				"icon": ""
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -318,7 +564,43 @@
 		"user_icon": "nisihara_icon.jpg",
 		"name": "さとし",
 		"message": "ちょっと緊張しながら一緒に帰ったの覚えてます💦笑顔が素敵なお二人さん🤩",
-		"comment": "",
+		"comment": [
+			{
+				"name": "なんちゃん",
+				"text": "なんか、すごく愛情を感じる写真♡",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "さとし",
+				"text": "なんか有難いお写真です笑",
+				"icon": "nisihara_icon.jpg"
+			},
+			{
+				"name": "池上",
+				"text": "なんか癒されたわ〜",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "いい写真",
+				"icon": ""
+			},
+			{
+				"name": "あさみ",
+				"text": "微笑ましいですね",
+				"icon": "asami_icon.jpg"
+			},
+			{
+				"name": "あきほ",
+				"text": "さとしが小顔狙ってますか?笑",
+				"icon": "akiho_icon.jpg"
+			},
+			{
+				"name": "さとし",
+				"text": "小顔なんです🙌🏼(しっかり後ろさがった)",
+				"icon": "nisihara_icon.jpg"
+			}
+		],
 		"voice": ""
 	},
 	{
@@ -326,7 +608,103 @@
 		"user_icon": "nisihara_icon.jpg",
 		"name": "さとし",
 		"message": "バイキング！！食べ過ぎにはご注意を…",
-		"comment": "",
+		"comment": [
+			{
+				"name": "むらかみ",
+				"text": "ステーキが美味しかったバイキング！！",
+				"icon": "IMG_7355.jpg"
+			},
+			{
+				"name": "nao",
+				"text": "楽しそう！😊",
+				"icon": "nao_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "あー！近鉄ホテルのやつやな！！",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "あー！近鉄ホテルのやつやな！！",
+				"icon": ""
+			},
+			{
+				"name": "さとし",
+				"text": "赤井くん巻くのに必死でしたね😹",
+				"icon": "nisihara_icon.jpg"
+			},
+			{
+				"name": "nao",
+				"text": "長田さんが電車で赤井さんに会ったって聞いてビビりました笑",
+				"icon": "nao_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "そうそう！（笑）",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "みんな何かと理由つけてたんよね！！😂",
+				"icon": ""
+			},
+			{
+				"name": "池上",
+				"text": "懐かしい〜！",
+				"icon": "ikegami_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "赤井さん鋭いからどきどきやったよな笑笑",
+				"icon": ""
+			},
+			{
+				"name": "なんちゃん",
+				"text": "そうそう！（笑）",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "りゅうたが予定あるみたいなこと言って帰ったときも、予定ってなんやろ？って探ってた😂",
+				"icon": ""
+			},
+			{
+				"name": "つるだ",
+				"text": "ビュッフェ、ぜひまた行きましょうー！",
+				"icon": "turuta_icon.jpg"
+			},
+			{
+				"name": "ぽんこつフェアリー！",
+				"text": "行きたかったのに、行けなかったから、行きたいです！",
+				"icon": "ami_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "行こ！",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "",
+				"text": "世の中が落ち着いたら行こうー！！",
+				"icon": ""
+			},
+			{
+				"name": "ちゃんあら",
+				"text": "私も参加させてください(ビュッフェ)✋️",
+				"icon": "arai_icon.jpg"
+			},
+			{
+				"name": "なんちゃん",
+				"text": "みんなで行こうー！😆",
+				"icon": "nanbu_icon.jpg"
+			},
+			{
+				"name": "やーねぇ",
+				"text": "激しく同意‼️",
+				"icon": "yayoi_icon.jpg"
+			}
+		],
 		"voice": ""
 	}
 ]
