@@ -1,0 +1,41 @@
+.front_loginBox {
+  text-align: center;
+}
+
+.front_titleLogo {
+  font-family: 'Dancing Script', cursive;
+  margin: 25vh 0 10vh;
+  font-size: 50px;
+}
+
+.front_loginForm-Box {
+  margin: 0 auto;
+  margin-bottom: 10vh;
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+
+.front_loginForm-Box_itemName {
+  text-align: center;
+}
+
+.front_loginForm-Box_item > input {
+  border: solid 1px $bordercolor;
+  font-size: 15px;
+}
+
+.front_loginForm_submit {
+  background-image: url('../image/heart_2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 8px 0 10px;
+
+  & > input {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Nico Moji";
+    padding-top: 4px;
+  }
+}

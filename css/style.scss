@@ -14,6 +14,7 @@
 @import "layout/viewCard";
 @import "layout/viewComment";
 @import "layout/joinMember";
+// @import "layout/front";
 
 /*component*/
 
@@ -25,6 +26,8 @@
 @import "object/project/viewCard";
 @import "object/project/viewComment";
 @import "object/project/joinMember";
+@import "object/project/front";
+
 
 /*utility*/
 @import "object/utility/motion";
