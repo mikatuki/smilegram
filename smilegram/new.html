@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=320,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="icon/favicon_0.ico">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="./js/new.js"></script>
+
+  </head>
+  <body>
+    <header class="header">
+      <div class="header_text">新規登録</div>
+    </header>
+
+    <main class="new">
+
+      <form class="new_form" action="new.php" method="post" enctype="multipart/form-data">
+
+        <label for="initial_icon" class="new_icon">
+          <span class="new_icon_btn"></span>
+          <input type="file" id="initial_icon" name="icon" value="" style="display:none">
+          <img id="icon-preview" class="is-close">
+        </label>
+
+        <div class="new_show-name"> <p class="error_message"></p> <input type="text" name="user" value="" placeholder="表示する名前"></div>
+        <div class="new_id">   <p class="error_message"></p>  <input type="text" name="id" value="" placeholder="ID(英数のみ)"></div>
+        <div class="new_psw">   <p class="error_message"></p>    <input type="text" name="psw" value="" placeholder="パスワード"></div>
+
+        <div class="new_submit">
+          登録
+        </div>
+
+      </form>
+
+    </main>
+
+
+
+  </body>
+</html>
